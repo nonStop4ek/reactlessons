@@ -1,10 +1,11 @@
 import './App.css';
-import Posts from "./Posts/Posts";
+import Launches from "./Launches/Launches";
 
 function App() {
   return (
     <div >
-  <Posts/>
+  {/*<Posts/>*/}
+      <Launches/>
     </div>
   );
 }
