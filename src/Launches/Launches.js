@@ -19,7 +19,7 @@ const Launches = () => {
     return (
         <div>
             {
-                launches.map(launch, index=><Launch key={index}  launch={launch}/>)
+                launches.map((launch, index)=><Launch key={index}  launch={launch}/>)
             }
         </div>
     );
