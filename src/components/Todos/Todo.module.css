@@ -1,0 +1,8 @@
+.Todo {
+    width: 50%;
+    height: 50px;
+    margin-bottom: 10px;
+    align-items: center;
+    justify-content: center;
+    border: solid black;
+}
